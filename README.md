@@ -5,11 +5,11 @@ B.Tech Computer Science student | Full-Stack Software Engineer focused | MERN St
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE student at Saveetha School of Engineering (Tier-2)
-- 💻 Focused on Full-Stack Software Engineering
-- ⚙️ Building applications using modern web technologies
-- 🧠 Interested in backend development and scalable systems
-- 🎯 Targeting MS in Computer Science (Fall 2027)
+- B.Tech CSE student at Saveetha School of Engineering (Tier-2)
+- Focused on Full-Stack Software Engineering
+- Building applications using modern web technologies
+- Interested in backend development and scalable systems
+- Targeting MS in Computer Science (Fall 2027)
 
 ---
 
@@ -25,12 +25,12 @@ B.Tech Computer Science student | Full-Stack Software Engineer focused | MERN St
 ### 🚀 Featured Projects
 > Projects currently under active development
 
-🔹 **Real-Time Chat Application**
+🔹 **Real-Time Chat Application** (In Progress)
 - Full-stack chat application with user authentication
 - Real-time messaging and REST API-based backend
 - Tech Stack: React, Node.js, MongoDB
 
-🔹 **E-Commerce Application**
+🔹 **E-Commerce Application** (In Progress)
 - End-to-end e-commerce platform with product and order management
 - Focused on backend APIs and database design
 - Tech Stack: React, Node.js, MongoDB
@@ -41,9 +41,3 @@ B.Tech Computer Science student | Full-Stack Software Engineer focused | MERN St
 - Data Structures & Algorithms (interview-focused)
 - Backend development best practices
 - React for building scalable frontends
-
----
-
-### 📫 Connect with Me
-- GitHub: https://github.com/PolisettiGanesh
-
